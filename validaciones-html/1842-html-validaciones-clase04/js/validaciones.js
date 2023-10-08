@@ -26,11 +26,11 @@ const mensajesDeError = {
     valueMissing: "El campo nombre no puede estar vacío",
   },
   email: {
-    valueMissing: "El campo correo no puede estar vacío",
+    valueMissing: "Debes añadir un correo electronico",
     typeMismatch: "El correo no es válido",
   },
   password: {
-    valueMissing: "El campo contraseña no puede estar vacío",
+    valueMissing: "Por favor ingresa una contraseña",
     patternMismatch:
       "Al menos 6 caracteres, máximo 12, debe contener una letra minúscula, una letra mayúscula, un número y no puede contener caracteres especiales.",
   },
